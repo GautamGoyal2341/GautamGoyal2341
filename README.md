@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://magiccopy.xyz/assets/images/hadder.gif"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"">, I'm Gautam Goyal</h1>
+<h1 align="center">Hi <img src="https://tenor.com/view/coding-gif-24297652" width="30px"">, I'm Gautam Goyal</h1>
 <h3 align="center">A Simple Boy trying to Figure-Out Stuff!!</h3>
 
 
