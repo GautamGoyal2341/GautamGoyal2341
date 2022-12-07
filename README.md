@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gautam-goyal-61aba71ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-goyal-61aba71ba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gautam_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam_goyal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gautamgoyal2341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamgoyal2341" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gautamgoyal2341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam_goyal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gautamgoyal2341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamgoyal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
